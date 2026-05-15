@@ -4,18 +4,6 @@ A premium, Dubai-luxury-inspired cybersecurity portfolio built with **Next.js 14
 
 ## ✨ Features
 
-- 🎬 **Loading screen** with animated security-themed progress bar
-- ☕ **Matrix rain** canvas background on hero
-- 🖱️ **Custom gold cursor** with trailing effect
-- ✍️ **Typewriter** animation for roles
-- 📜 **Smooth scroll** with active nav highlighting
-- 💫 **Framer Motion** reveal animations on scroll
-- 📊 **Animated skill bars** with percentage display
-- 🏷️ **Project cards** with live status indicators
-- 🎓 **Certifications** grid with color-coded badges
-- 📬 **Contact form** (opens mailto)
-- 📱 **Fully responsive** mobile-first design
-- ⚡ **Custom cursor** hidden on mobile
 
 ## 🚀 Deploy to Vercel
 
